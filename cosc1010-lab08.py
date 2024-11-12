@@ -1,9 +1,10 @@
 # Peyton Chandler
 # UWYO COSC 1010
-# 11/4/24
+# 11/11/24
 # Lab 08
 # Lab Section: 11
-# Sources, people worked with, help given to:
+# Sources, people worked with, help given to: used chatGpt to debug what my code, slope intercept function wasnt working changed a few things and chatgpt used the map command which seems to have worked
+# Chat-GPT (2024, November 10th) can you help me figure out why my code doesn't work? " copy and pasted code" https://chat.openai.com/
 # your
 # comments
 # here

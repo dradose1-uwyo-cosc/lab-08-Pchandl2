@@ -1,8 +1,8 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Peyton Chandler
+## Lab 8
+## [Submission date: 11/11/24]
 ## Worked with/sources 
-* example
+* chatgpt
 * example
 * example
 * example
